@@ -16,7 +16,7 @@
 
 	    <!-- Device -->
 
-    <project name="android_device_samsung_j7xelte" path="device/samsung/j7y17lte" remote="samsungexynos7870" revision="crdroid" />
+    <project name="android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="samsungexynos7870" revision="crdroid" />
 
     <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="samsungexynos7870" revision="crdroid" />
 
@@ -26,7 +26,7 @@
 
     <!-- Vendor -->
 
-    <project name="android_vendor_samsung_j7xelte" path="vendor/samsung/j7y17lte" remote="samsungexynos7870" revision="common" />
+    <project name="android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="samsungexynos7870" revision="common" />
 
     <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="samsungexynos7870" revision="common" />
 
